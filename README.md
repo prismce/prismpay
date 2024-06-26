@@ -1,4 +1,4 @@
-![Paymenter Logo]([https://paymenter.org/image/textlogo.png](https://prismnodes.com/assets/PrismCloud2-BctV0Idy.png))
+![Prism Cloud Logo]([[https://paymenter.org/image/textlogo.png](https://prismnodes.com/assets/PrismCloud2-BctV0Idy.png)](https://prismnodes.com/assets/PrismCloud2-BctV0Idy.png))
 
 ## PrismPay
 ### About
